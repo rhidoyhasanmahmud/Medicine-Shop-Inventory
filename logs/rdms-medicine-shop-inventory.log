@@ -1,0 +1,16 @@
+2021-01-03 22:33:34 INFO   --- [main] c.l.m.MedicineshopinventoryApplication : Starting MedicineshopinventoryApplication using Java 11.0.8 on Hasan with PID 11160 (G:\Office-BABL\medicineshopinventory\target\classes started by 15101 in G:\Office-BABL\medicineshopinventory)
+2021-01-03 22:33:34 INFO   --- [main] c.l.m.MedicineshopinventoryApplication : The following profiles are active: dev
+2021-01-03 22:33:35 INFO   --- [main] c.z.h.HikariDataSource : HikariPool-1 - Starting...
+2021-01-03 22:33:35 INFO   --- [main] c.z.h.HikariDataSource : HikariPool-1 - Start completed.
+2021-01-03 22:33:35 WARN   --- [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-01-03 22:33:36 INFO   --- [main] c.l.m.MedicineshopinventoryApplication : Started MedicineshopinventoryApplication in 2.526 seconds (JVM running for 3.157)
+2021-01-03 22:33:40 INFO   --- [RMI TCP Connection(2)-127.0.0.1] c.z.h.HikariDataSource : HikariPool-1 - Shutdown initiated...
+2021-01-03 22:33:40 INFO   --- [RMI TCP Connection(2)-127.0.0.1] c.z.h.HikariDataSource : HikariPool-1 - Shutdown completed.
+2021-01-03 22:39:26 INFO   --- [main] c.l.m.MedicineshopinventoryApplication : Starting MedicineshopinventoryApplication using Java 11.0.8 on Hasan with PID 11412 (G:\Office-BABL\medicineshopinventory\target\classes started by 15101 in G:\Office-BABL\medicineshopinventory)
+2021-01-03 22:39:26 INFO   --- [main] c.l.m.MedicineshopinventoryApplication : The following profiles are active: dev
+2021-01-03 22:39:27 INFO   --- [main] c.z.h.HikariDataSource : HikariPool-1 - Starting...
+2021-01-03 22:39:27 INFO   --- [main] c.z.h.HikariDataSource : HikariPool-1 - Start completed.
+2021-01-03 22:39:27 WARN   --- [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-01-03 22:39:27 INFO   --- [main] c.l.m.MedicineshopinventoryApplication : Started MedicineshopinventoryApplication in 2.014 seconds (JVM running for 2.725)
+2021-01-03 22:39:31 INFO   --- [RMI TCP Connection(2)-127.0.0.1] c.z.h.HikariDataSource : HikariPool-1 - Shutdown initiated...
+2021-01-03 22:39:31 INFO   --- [RMI TCP Connection(2)-127.0.0.1] c.z.h.HikariDataSource : HikariPool-1 - Shutdown completed.
