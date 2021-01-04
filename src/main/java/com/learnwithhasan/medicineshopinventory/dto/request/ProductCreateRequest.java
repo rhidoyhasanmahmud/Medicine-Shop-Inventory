@@ -10,6 +10,9 @@ import javax.validation.constraints.Size;
 
 import org.springframework.format.annotation.DateTimeFormat;
 
+import lombok.Data;
+
+@Data
 public class ProductCreateRequest {
 	
 	@NotNull
